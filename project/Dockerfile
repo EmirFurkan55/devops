@@ -1,4 +1,4 @@
-FROM python:3.13.0a2-slim-bullseye
+FROM python:3.08
 
 # set work directory
 WORKDIR /usr/src/app
